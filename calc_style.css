@@ -1,0 +1,22 @@
+body
+{
+	background-image: url(cal.jpg);
+	text-align: center;
+}
+input
+{
+	width: 100px;
+	height: 80px;
+	font-size: 75px;
+	border-radius: 10px;
+	margin:10px;
+	background-color: #000;
+	color: #fff;
+	border-style: none;
+}
+h1
+{
+	text-align:center;
+	font-size: 50px;
+	
+}
